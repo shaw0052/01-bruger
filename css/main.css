@@ -81,7 +81,7 @@ nav a:hover,
 
 /**----------- Media Q ------------------**/
 
-@media screen and (max-width:545px) {
+@media screen and (max-width:1016px) {
     nav ul {
         display: flex;
         flex-direction: column;
